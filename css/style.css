@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
     position: relative;
     width: calc(var(--index) * var(--side-small));
     height: calc(var(--index) * var(--side-big));
-    background-image: url("../images/1.jpg");
+    /*background-image: url("../images/1.jpg");*/
     background-position: center center;
     background-size: cover;
 }
